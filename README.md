@@ -1,3 +1,3 @@
 # Hello-World-
-This is my first new repository
+This is a markdown file
 I play drums and work 8 to 6 p.m.. 
